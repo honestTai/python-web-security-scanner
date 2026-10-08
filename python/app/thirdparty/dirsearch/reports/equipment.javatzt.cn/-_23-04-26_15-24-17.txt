@@ -1,0 +1,7 @@
+# Dirsearch started Wed Apr 26 15:24:18 2023 as: G:\代码\论文\19级论文\成都东软学院\基于python的web安全检测系统的设计与实现\python\app\thirdparty\dirsearch\dirsearch.py
+
+400   157B   https://equipment.javatzt.cn:443/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+400   157B   https://equipment.javatzt.cn:443/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+200     3KB  https://equipment.javatzt.cn:443/index.html
+301   169B   https://equipment.javatzt.cn:443/static    -> REDIRECTS TO: https://equipment.javatzt.cn/static/
+200    69B   https://equipment.javatzt.cn:443/swagger-resources
